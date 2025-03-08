@@ -29,8 +29,8 @@ class Visualization:
         self.paths = {
             "full_landscape": ('landscape_results', system_name, 'landscape_visualizations', 'full_landscape'),
             "local_optima": ('landscape_results', system_name, 'landscape_visualizations', 'local_optima'),
-            "landscape_basin_pics": ('landscape_results', system_name, 'landscape_visualizations', 'basin_pics'),
-            "heatmap": ('landscape_results', system_name, 'landscape_visualizations', 'heatmap')
+            "landscape_basin_pics": ('landscape_results', system_name, 'landscape_visualizations', 'basin_pics')
+            # "heatmap": ('landscape_results', system_name, 'landscape_visualizations', 'heatmap')
         }
 
         # Generate full path strings
