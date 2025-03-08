@@ -1,0 +1,13 @@
+Option,RSD (%)
+auto_config,0.423
+debug_ref_count,2.103
+dump_models,0.060
+model,1.397
+model_validate,1.467
+proof,1.245
+smtlib2_compliant,1.558
+stats,2.867
+trace,4.596
+type_check,2.826
+unsat_core,1.785
+well_sorted_check,3.250
